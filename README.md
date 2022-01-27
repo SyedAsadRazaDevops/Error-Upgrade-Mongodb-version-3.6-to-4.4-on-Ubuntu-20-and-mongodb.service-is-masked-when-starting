@@ -80,5 +80,8 @@ sudo systemctl enable mongod
 
 thankyou for reading!
 
+Visit: https://askubuntu.com/questions/919108/error-unit-mongodb-service-is-masked-when-starting-mongodb
+Visit: https://serverfault.com/questions/970628/upgrading-mongodb-from-3-6-to-4-0
+Visit: https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04
 
 
